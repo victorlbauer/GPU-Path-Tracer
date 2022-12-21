@@ -8,5 +8,5 @@ An implementation of a basic interactive path tracer that runs entirely on the G
 - BVH built considering the Surface Area Heuristic
 - Disney's Principled BSDF
 
-#Screenshots
+## Screenshots
 ![plot](./screenshots/cranio.png)
