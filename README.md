@@ -10,3 +10,8 @@ An implementation of a basic interactive path tracer that runs entirely on the G
 
 ## Screenshots
 ![plot](./screenshots/cranio.png)
+![plot](./screenshots/dragon.png)
+![plot](./screenshots/teapots.png)
+![plot](./screenshots/monkey.png)
+![plot](./screenshots/cornell box.png)
+![plot](./screenshots/spheres.png)
