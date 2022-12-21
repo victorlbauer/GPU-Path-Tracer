@@ -7,3 +7,6 @@ An implementation of a basic interactive path tracer that runs entirely on the G
 - IBL
 - BVH built considering the Surface Area Heuristic
 - Disney's Principled BSDF
+
+#Screenshots
+![Skull](https://github.com/victorlbauer/GPU-Path-Tracer/screenshots/cranio.png?raw=true)
